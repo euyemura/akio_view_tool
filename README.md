@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AkioViewTool::Renderer.copyright "Eric Uyemura", "All rights reserved"
+```
 
 ## Development
 
